@@ -1,5 +1,5 @@
-# Recursive-Rolling-Forecasting-
-Inflation forecasting
+# Macroeconometrics Forecasting of Swedish Inflation -
+Rolling / REcursive forecasting
 This project investigates the predictive performance of the machine learning model by forecasting Swedish inflation.
 This study examines the effectiveness of the five chosen models in terms of inflation prediction.
 The five models include the random walk, ARIMA, lasso, ridge, and elastic net regression. 
