@@ -6,3 +6,5 @@ The five models include the random walk, ARIMA, lasso, ridge, and elastic net re
 The error-based assessment measures determine the best model for forecasting Sweden's inflation. 
 The evaluation metrics used to compare the performances of these models are mean squared error and mean absolute error. 
 Then, the elastic net yields more accurate predictions for all forecasting horizons than the benchmark test.
+
+The details of this project can be found in the link below
